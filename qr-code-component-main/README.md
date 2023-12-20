@@ -1,4 +1,7 @@
-# Frontend Mentor - QR code component
+![Screenshot 2023-12-20 163428](https://github.com/Tonysasasa/Front-end-Projects/assets/88671604/7c62f381-87d1-46cf-937e-741753324b5d)
+
+# Frontend Mentor - ![Uploading Screenshot 2023-12-20 163428.png…]()
+QR code component
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
