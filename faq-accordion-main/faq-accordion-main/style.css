@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hsl(275, 100%, 97%);
+    font-size: 1rem;
+    font-family: "Work Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./assets/images/background-pattern-mobile.svg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top;
+}
+
+
+
+.Framework {
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    border-radius: 1em;
+    padding: 2em;
+    margin: 10em 5em;
+    width: 600px;
+}
+
+
+.Content {
+    display: none;
+    color: gray;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    width: 100%;
+
+}
+
+.ButtonClick {
+    border: none;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ButtonClick img {
+    margin-left: 3em;
+}
+
+.ButtonClick p {
+    font-weight: bold;
+    width: 100%;
+}
+
+.FAQ {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 2.5em;
+    margin: 0 0 0 0.25em;
+}
+
+.FAQ img {
+    width: 0.7em;
+    height: 0.7em;
+    margin-right: 0.5em;
+}
+
+.FAQ p {
+    font-weight: 800;
+}
+
+hr {
+    border: 0.5px solid lightgrey;
+    width: 100%;
+}
+
+@media (min-width: 400px) {
+    body {
+        background-image: url(./assets/images/background-pattern-desktop.svg);
+    }
+
+    .Framework {
+        max-width: 80%;
+    }
+}
+
+.attribution {
+    font-size: 10px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(241, 69%, 40%);
+}
