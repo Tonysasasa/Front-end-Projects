@@ -1,3 +1,6 @@
+![Screenshot 2023-12-20 163801](https://github.com/Tonysasasa/Front-end-Projects/assets/88671604/f4f0c84b-150a-4306-9817-fe45b33467d4)
+![Screenshot 2023-12-20 163824](https://github.com/Tonysasasa/Front-end-Projects/assets/88671604/cc0b8b8c-3de9-4782-898c-a1d1296d223d)
+
 # Frontend Mentor - FAQ accordion
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). 
