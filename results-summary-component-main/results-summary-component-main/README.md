@@ -1,3 +1,5 @@
+![Screenshot 2023-12-21 150902](https://github.com/Tonysasasa/Front-end-Projects/assets/88671604/e25db971-52af-4c31-8341-2e2e4dd45e86)
+
 # Frontend Mentor - Results summary component
 Results summary component
 
